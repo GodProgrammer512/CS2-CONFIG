@@ -1,0 +1,1 @@
+Counter Strike 2 steam init: -high -threads 13 -forcnovsync -refresh 76 -freq 76 -cl_forcepreload 1 -nohltv -nod3d9ex1 -mat_queue_mode 2 -nojoy -novid -exec autoexec
